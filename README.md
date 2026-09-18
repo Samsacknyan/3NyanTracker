@@ -197,7 +197,7 @@ only *conveying* a unit to a third party does that.
 
 ---
 
-## ✉️ Let's Touch!
+## ✉️ Stay in Touch!
 
 | | |
 |---|---|
