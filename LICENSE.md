@@ -1,0 +1,235 @@
+              3NyanTracker Hardware Distribution License 1.0
+                      Version 1.0, September 2026
+
+This license is derived from and incorporates the Apache License,
+Version 2.0 (Sections 1-9 below, reproduced with only the license
+name changed), with an additional, project-specific Section 10
+appended to address hardware-specific terms: non-commercial use,
+reverse-engineering permission, GPLv3-style mandatory source
+availability, and physical attribution requirements. Section 10
+governs wherever it conflicts with Sections 1-9.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions
+
+   "License" shall mean the terms and conditions for use,
+   reproduction, and distribution as defined by Sections 1 through
+   10 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized
+   by the copyright owner that is granting the License.
+
+   "You" (or "Your") shall mean an individual or Legal Entity
+   exercising permissions granted by this License.
+
+   "Source" form shall mean the preferred form for making
+   modifications, including but not limited to CAD files, PCB
+   design files (schematics, layout, gerbers), bills of materials,
+   firmware source code, and documentation source.
+
+   "Object" form shall mean any form resulting from mechanical
+   transformation or fabrication of a Source form, including but
+   not limited to manufactured PCBs, assembled units, 3D-printed
+   parts, and compiled firmware.
+
+   "Work" shall mean the hardware design, documentation, and any
+   associated firmware made available under this License, as
+   indicated by a copyright notice included in or attached to it.
+
+   "Derivative Works" shall mean any work, whether in Source or
+   Object form, that is based on (or derived from) the Work.
+
+   "Convey" means any distribution, transfer, sale, gift, or other
+   provision of the Work, a Derivative Work, or any Object form of
+   either, to a third party. Mere use, personal possession, repair,
+   or private (non-distributed) modification is not Conveying.
+
+2. Grant of Copyright License
+
+   Subject to the terms and conditions of this License, Licensor
+   grants You a perpetual, worldwide, non-exclusive, no-charge,
+   royalty-free, irrevocable license to reproduce, prepare
+   Derivative Works of, publicly display, and distribute the Work
+   and such Derivative Works, in Source or Object form, subject to
+   Section 10 below.
+
+3. Grant of Patent License
+
+   Subject to the terms and conditions of this License, including
+   Section 10, Licensor grants You a perpetual, worldwide,
+   non-exclusive, no-charge, royalty-free, irrevocable (except as
+   stated in this section) patent license to make, have made, use,
+   and otherwise transfer the Work, limited to patent claims
+   licensable by Licensor that are necessarily infringed by the
+   Work alone.
+
+4. Redistribution
+
+   You may reproduce and distribute copies of the Work or
+   Derivative Works in any medium, with or without modifications,
+   in Source or Object form, provided that You:
+
+   (a) give any recipients a copy of this License; and
+   (b) cause any modified files to carry prominent notices stating
+       that You changed them; and
+   (c) retain all copyright and attribution notices from the
+       Source form of the Work in any Derivative Works You
+       distribute.
+
+5. Submission of Contributions
+
+   Unless You explicitly state otherwise, any contribution
+   intentionally submitted for inclusion in the Work is provided
+   under the terms of this License, without additional terms.
+
+6. Trademarks
+
+   This License does not grant permission to use the name
+   "3NyanTracker" or any trademark of the Licensor, except as
+   required for reasonable and customary use in describing the
+   origin of the Work.
+
+7. Disclaimer of Warranty
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS
+   OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT
+   LIMITATION ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, OR NON-INFRINGEMENT. This is a hobbyist,
+   concept-stage hardware design. Building or connecting any device
+   based on this Work to a Steam Frame or any other equipment is
+   entirely at Your own risk.
+
+8. Limitation of Liability
+
+   IN NO EVENT SHALL LICENSOR BE LIABLE TO YOU FOR ANY DAMAGES,
+   INCLUDING DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL
+   DAMAGES OF ANY KIND ARISING FROM THIS LICENSE OR THE USE OR
+   INABILITY TO USE THE WORK, INCLUDING BUT NOT LIMITED TO DAMAGE
+   TO A STEAM FRAME HEADSET OR ANY OTHER HARDWARE, EVEN IF ADVISED
+   OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Accepting Warranty or Additional Liability
+
+   You may offer, and charge a fee for, support, warranty, or
+   indemnity obligations consistent with this License, but only on
+   Your own behalf, and only if You agree to indemnify and hold the
+   Licensor harmless for any liability arising from Your doing so.
+
+10. Additional Terms: Non-Commercial, Reverse-Engineering,
+    and Physical Attribution Provisions
+
+    Section 10 supplements and, wherever it conflicts with Sections
+    1-9 above, takes precedence over them.
+
+    (a) Reverse Engineering Expressly Permitted
+
+        (1) Nothing in this License restricts You from
+            reverse-engineering the Work, any Object form of the
+            Work, or any manufactured unit based on it, for any
+            purpose, including to understand, modify, repair, or
+            build Your own non-commercial derivative.
+
+    (b) Non-Commercial Restriction
+
+        (1) "Non-Commercial" means not primarily intended for or
+            directed toward commercial advantage or monetary
+            compensation.
+
+        (2) "Prohibited Commercial Activity" means (i) manufacturing,
+            selling, offering to sell, or otherwise distributing for
+            profit any physical unit that is the Work or a
+            Derivative Work of it; or (ii) charging a fee for
+            assembly, kitting, or distribution of such units beyond
+            reasonable, documented reimbursement of Your own
+            materials and shipping costs.
+
+        (3) You may use, reproduce, modify, prepare Derivative
+            Works of, manufacture for personal use, and distribute
+            the Work or Derivative Works solely for Non-Commercial
+            purposes.
+
+        (4) You may not engage in Prohibited Commercial Activity
+            with respect to the Work or Derivative Works without
+            separate, explicit written permission from the
+            Licensor.
+
+    (c) Physical Attribution Requirement
+
+        (1) Any manufactured unit of the Work or a Derivative Work
+            that is distributed to a third party (including
+            non-commercial distribution) must carry a visible,
+            legible attribution to this project on the physical
+            hardware itself — for example, a silkscreened project
+            name and/or QR code linking to the originating
+            repository — sufficient for a recipient to identify the
+            design's origin and locate this License.
+
+        (2) This requirement exists in addition to, not instead of,
+            the Source-form attribution notices required under
+            Section 4(c).
+
+    (d) Copyleft Requirement (GPLv3-style Source Availability)
+
+        (1) "Corresponding Source" means the complete Source form
+            (CAD files, PCB schematics and layout, gerbers, bill of
+            materials, firmware source, and build/assembly
+            instructions) necessary for a recipient to reproduce
+            and modify the Object form (a manufactured unit) that
+            was conveyed to them.
+
+        (2) If You convey any Object form of the Work or a
+            Derivative Work to any third party — including a single
+            unit given, sold at cost, or otherwise provided to one
+            recipient, and regardless of whether that conveyance is
+            commercial or non-commercial — You must also make the
+            Corresponding Source for that exact Object form
+            available to that recipient, at no additional charge
+            beyond reasonable distribution cost, under this same
+            License (3NyanTracker Hardware Distribution License
+            1.0). This obligation may be satisfied by including the
+            Corresponding Source with the unit, or by providing a
+            durable public link to it (e.g. a public code hosting
+            repository) that remains accessible for as long as You
+            continue to convey that Object form, and in any case for
+            no less than three years from the date of conveyance.
+
+        (3) This Source-availability requirement applies to every
+            Derivative Work in the chain, not only to the first
+            modification of the original Work. If You build upon a
+            Derivative Work made by someone else, You inherit and
+            must satisfy this same obligation for Your own
+            modifications when You convey any Object form based on
+            them.
+
+        (4) You must retain all notices required under Sections 4(c)
+            and 10(c), and clearly and prominently mark Your
+            Derivative Works as modified from the original,
+            including a description of what was changed.
+
+        (5) A recipient's mere possession, personal use, repair, or
+            private modification of an Object form does not, by
+            itself, trigger this Section — the obligation is
+            triggered specifically by conveyance (providing an
+            Object form) to another party.
+
+    (e) No Further Restrictions
+
+        You may not impose additional restrictions on the exercise
+        of the rights granted under this License beyond those
+        stated here. Any attempt to do so is void and automatically
+        terminates Your rights under this License.
+
+    (f) Enforcement and Termination
+
+        (1) Any violation of this Section 10 immediately terminates
+            Your rights under this License.
+
+        (2) All disclaimers, limitations of liability, and
+            indemnification obligations survive termination.
+
+END OF TERMS AND CONDITIONS
+
+Copyright 2026 Samsacknyan
+Licensed under the 3NyanTracker Hardware Distribution License 1.0
+(see above). Contact: rumored-prosy-9j@icloud.com
