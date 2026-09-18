@@ -207,8 +207,10 @@ only *conveying* a unit to a third party does that.
 
 ---
 
-<div align="center">
+™️ Trademark & Third-Party Notice
 
-*Made with 🐱 by Samsacknyan*
+"Steam," "Steam Frame," "SteamOS," "SteamVR," and related logos are trademarks and/or registered trademarks of Valve Corporation in the US and/or other countries. This project is an independent, fan-made, unofficial concept, and is not affiliated with, sponsored by, or endorsed by Valve Corporation.
 
-</div>
+References to Valve, Steam, or Steam Frame in this repository (including specifications, product names, and links to Valve-operated pages) are made solely to describe hardware compatibility and are believed to fall under fair/nominative use. No proprietary Valve documentation, CAD files, or other confidential/partner-only material is reproduced, copied, or derived from in this repository. All such references point to Valve's own publicly accessible pages rather than reproducing their content.
+
+Any other trademarks, product names, or company names mentioned in this repository (e.g. Arcturus, Snapdragon/Qualcomm) belong to their respective owners and are used here for identification purposes only.
