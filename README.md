@@ -6,7 +6,7 @@
 
 *A concept-stage, hardware-only, open accessory design*
 
-[![License: 3NyanTracker HDL 1.0](https://img.shields.io/badge/License-3NyanTracker%20HDL%201.0-lightgrey.svg)](./LICENSE)
+[![License: 3NyanTracker HDL 1.0](https://img.shields.io/badge/License-3NyanTracker%20HDL%201.0-lightgrey.svg)](./LICENSE.md)
 ![Status](https://img.shields.io/badge/status-concept%20%2F%20pre--CAD-orange)
 ![Target](https://img.shields.io/badge/target-Valve%20Steam%20Frame-1b2838)
 ![Scope](https://img.shields.io/badge/scope-hardware--only-blue)
