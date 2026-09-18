@@ -174,7 +174,7 @@ port docs, that's especially useful.
 <div align="center">
 
 **3NyanTracker Hardware Distribution License 1.0**
-*(Apache 2.0 base + custom Section 10)* — [full text](./LICENSE)
+*(Apache 2.0 base + custom Section 10)* — [full text](./LICENSE.md)
 
 </div>
 
@@ -201,7 +201,7 @@ only *conveying* a unit to a third party does that.
 
 | | |
 |---|---|
-| **License** | 3NyanTracker Hardware Distribution License 1.0 — see [LICENSE](./LICENSE) |
+| **License** | 3NyanTracker Hardware Distribution License 1.0 — see [LICENSE](./LICENSE.md) |
 | **First published** | 2026-09-18 |
 | **Maintainer** | Samsacknyan · `rumored-prosy-9j@icloud.com` |
 
