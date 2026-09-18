@@ -94,7 +94,7 @@ add-on hardware.
 
 ## 🔌 Expansion Port
 
-- Front of the headset, user-accessible
+- Nose side of the headset, user-accessible
 - 1-lane PCIe Gen4 + a MIPI camera interface (reported as dual
   2.5Gbps lanes; some sources say up to 8 MIPI lanes total). Exact
   pinout **not officially published yet**
