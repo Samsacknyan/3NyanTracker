@@ -2,11 +2,11 @@
 
 # 🐱 3NyanTracker
 
-### MIPI-Direct Mouth Tracker for Valve Steam Frame
+### MIPI-Direct Mouth Tracker for Steam Frame
 
 *A concept-stage, hardware-only, open accessory design*
 
-[![License: 3NyanTracker HDL 1.0](https://img.shields.io/badge/License-3NyanTracker%20HDL%201.0-lightgrey.svg)](./LICENSE.md)
+[![License: 3NyanTracker HDL 1.0](https://img.shields.io/badge/License-3NyanTracker%20HDL%201.0-lightgrey.svg)](./LICENSE)
 ![Status](https://img.shields.io/badge/status-concept%20%2F%20pre--CAD-orange)
 ![Target](https://img.shields.io/badge/target-Valve%20Steam%20Frame-1b2838)
 ![Scope](https://img.shields.io/badge/scope-hardware--only-blue)
@@ -174,7 +174,7 @@ port docs, that's especially useful.
 <div align="center">
 
 **3NyanTracker Hardware Distribution License 1.0**
-*(Apache 2.0 base + custom Section 10)* — [full text](./LICENSE.md)
+*(Apache 2.0 base + custom Section 10)* — [full text](./LICENSE)
 
 </div>
 
@@ -197,11 +197,11 @@ only *conveying* a unit to a third party does that.
 
 ---
 
-## ✉️ Stay in Touch!
+## ℹ️ Stay in Touch!
 
 | | |
 |---|---|
-| **License** | 3NyanTracker Hardware Distribution License 1.0 — see [LICENSE](./LICENSE.md) |
+| **License** | 3NyanTracker Hardware Distribution License 1.0 — see [LICENSE](./LICENSE) |
 | **First published** | 2026-09-18 |
 | **Maintainer** | Samsacknyan · `rumored-prosy-9j@icloud.com` |
 
