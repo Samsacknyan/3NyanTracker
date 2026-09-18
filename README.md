@@ -1,0 +1,2 @@
+# 3NyanTracker
+3Nyantracker - SteamFrame是一款基于内置Mipi终端的面部表情追踪和Mipi通信设备。它集成了Mipi CSI设备管理、视频处理和OSC数据传输功能，使其适用于VRChat虚拟形象的动画和表情控制。
